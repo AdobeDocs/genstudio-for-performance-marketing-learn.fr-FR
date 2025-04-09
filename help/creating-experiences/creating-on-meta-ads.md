@@ -1,21 +1,22 @@
 ---
-title: Création de métadonnées de marque
-description: Suivez une présentation détaillée du produit de la création d’une méta-publicité dans [!DNL GenStudio for Performance Marketing].
+title: Créer Des Méta-Publicités Sur La Marque
+description: Suivez une présentation détaillée du produit de la création d’une méta-annonce dans  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
+feature: Create Canvas, Create Prompt, Variant Generation
 level: Beginner, Intermediate, Experienced
 doc-type: Technical Video
 duration: 239
 last-substantial-update: 2024-10-12T00:00:00Z
 jira: KT-16337
 exl-id: cd8492b8-0852-46b2-b638-93f108ec0a84
-source-git-commit: 34ff9fb0948d6ee6615594192c2030c058dfd619
+source-git-commit: 1537999e76de32b7d11dfb3ddc58fc11648404c3
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 36%
 
 ---
 
-# Création de métadonnées de marque
+# Créer des méta-annonces sur la marque
 
 Suivez la présentation produit étape par étape de la création d’une publicité Meta dans [!DNL GenStudio for Performance Marketing].
 
