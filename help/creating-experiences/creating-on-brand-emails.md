@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Cette section explique étape par étape comment créer des e-mails marketing sur la marque avec Adobe [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435056/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435069/?learn=on&captions=fre_fr)
