@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Suivez la présentation produit étape par étape de la création d’une publicité Meta dans [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435080/?captions=fre_fr&learn=on)

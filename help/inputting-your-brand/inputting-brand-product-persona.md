@@ -20,4 +20,4 @@ ht-degree: 83%
 
 Cette vidéo explique en détail comment saisir les directives de marque, les produits et les personas marketing clés de votre entreprise dans GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439371/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439373/?captions=fre_fr&learn=on&enablevpops)
