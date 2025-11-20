@@ -1,5 +1,5 @@
 ---
-title: Créer Des Méta-Publicités Sur La Marque
+title: Créer Des Publicités Meta Sur La Marque
 description: Suivez une présentation détaillée du produit de la création d’une méta-annonce dans  [!DNL GenStudio for Performance Marketing].
 role: Admin, Developer, Leader, User
 feature: Create Canvas, Create Prompt, Variant Generation
@@ -20,4 +20,4 @@ ht-degree: 36%
 
 Suivez la présentation produit étape par étape de la création d’une publicité Meta dans [!DNL GenStudio for Performance Marketing].
 
->[!VIDEO](https://video.tv.adobe.com/v/3435080/?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3435057/?learn=on)
