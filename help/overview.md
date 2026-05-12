@@ -5,10 +5,24 @@ role: User, Developer, Admin, Leader
 level: Beginner
 doc-type: overview
 exl-id: f8627a92-06dc-46d7-9a11-8f7964be30e3
-source-git-commit: 733b1be3d4ff8ec93ec4f2e8a1cc89ddbb1b8646
+TQID: https://experienceleague.adobe.com/OTbk89qtAxsSw4n2I-kUmw437Q7jZgkeHkD-Ag-l12s
+product_v2:
+  - id: c4f2e613-b6a1-4be6-b2fc-6021190d498d
+feature_v2:
+  - id: c7c3a4ab-6b96-4f2f-8931-4d2b360c3d12
+  - id: cd5564d5-2a4e-4a5a-8064-57a804f6fd3a
+  - id: f71bd2fc-e9ca-4cb6-8088-82e250211e32
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: a3fbb2a2e3184ef09de75dda8bb76bf4ab7a52ec
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 43%
+source-wordcount: 174
+ht-degree: 41%
 
 ---
 
@@ -45,8 +59,8 @@ CARDS
                     <p class="is-size-6">Cette vidéo explique en détail comment saisir les directives de marque, les produits et les personas marketing clés de votre entreprise dans GenStudio for Performance Marketing.</p>
                 </div>
                 <a href="./inputting-your-brand/inputting-brand-product-persona.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
-</a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
             </div>
         </div>
     </div>
@@ -82,8 +96,8 @@ CARDS
                     <p class="is-size-6">Affichez une explication étape par étape sur la création des e-mails marketing pour votre marque avec Adobe [!DNL GenStudio for Performance Marketing].</p>
                 </div>
                 <a href="./creating-experiences/creating-on-brand-emails.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-<span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
-</a>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
             </div>
         </div>
     </div>
@@ -105,7 +119,7 @@ CARDS
                     <p class="is-size-6">Suivez la présentation produit étape par étape de la création d’une publicité Meta dans [!DNL GenStudio for Performance Marketing].</p>
                 </div>
                 <a href="./creating-experiences/creating-on-meta-ads.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
         </div>
