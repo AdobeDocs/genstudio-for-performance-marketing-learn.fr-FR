@@ -4,7 +4,7 @@ breadcrumb-title: Tutoriels  [!DNL GenStudio for Performance Marketing]  Adobe
 user-guide-description: Consultez les tutoriels Experience League sur Adobe [!DNL GenStudio for Performance Marketing], une solution de bout en bout visant à accélérer et simplifier votre supply chain de contenu avec une IA générative et une automatisation intelligente.
 source-git-commit: 703a250886c4c7dc7fa81cbba4db4c44627587c5
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '50'
 ht-degree: 4%
 
 ---
