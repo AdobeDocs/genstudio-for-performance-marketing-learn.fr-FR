@@ -14,7 +14,7 @@ ht-degree: 4%
 
 + [Tutoriels [!DNL GenStudio for Performance Marketing]](overview.md)
 + Saisie de votre marque {#inputing-your-brand}
-   + [Saisie de la marque, du produit et du persona](./inputting-your-brand/inputting-brand-product-persona.md)
+  + [Saisie de la marque, du produit et du persona](./inputting-your-brand/inputting-brand-product-persona.md)
 + Création d’expériences {#creating-experiences}
-   + [Créer des e-mails de marketing sur la marque](./creating-experiences/creating-on-brand-emails.md)
-   + [Créer des méta-annonces sur la marque](./creating-experiences/creating-on-meta-ads.md)
+  + [Créer des e-mails de marketing sur la marque](./creating-experiences/creating-on-brand-emails.md)
+  + [Créer des méta-annonces sur la marque](./creating-experiences/creating-on-meta-ads.md)
